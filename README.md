@@ -1,2 +1,1 @@
-# learning
-Notes, code, and projects from my engineering learning journey.
+Learning one bug at a time.
