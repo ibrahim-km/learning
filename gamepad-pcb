@@ -1,0 +1,17 @@
+# USB Gamepad PCB
+
+A basic USB gamepad PCB designed in KiCad for learning PCB design and routing.
+
+## Features
+- Push-button inputs
+- USB interface
+- Custom PCB layout
+- KiCad schematic and PCB design
+
+## Images
+
+### PCB Layout
+![PCB](pcb-layout.png)
+
+### 3D View
+![3D](3d-view.png)
